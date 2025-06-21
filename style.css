@@ -29,8 +29,6 @@ nav{
 }
 #right ul li:hover{
     a{
-        border:1px solid black;
-        border-radius:10px;
         color: black;
     }
 }
